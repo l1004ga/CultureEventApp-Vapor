@@ -16,7 +16,7 @@
 ### 2) Installing Vapor & PostMan on Mac
 #### <Postman 설치>
        brew install --cask postman
-       //만일 brew가 없을 시 brew먼저 설치 필요
+       //필수 아님. 서버가 잘 돌아가는지 확인하기 위해 사용
        
 #### <Vapor 설치>
       brew install vapor
