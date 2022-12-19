@@ -23,7 +23,7 @@
       //이거 --cask로 깔면 다른 파일이 깔리기 때문에 꼭 --cask 뺘고 명령어 입력 필요
       
 #### <Vapor 파일 생성>
-      vapor filename
+      vapor new filename
       //filename에 원하는 파일 이름을 생성해준다.
       
 #### <Vapor 파일 열기>
